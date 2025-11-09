@@ -1,0 +1,7 @@
+{
+  "name": "AuraMind AI Companion",
+  "description": "An AI-powered mental health application that helps you track your emotional well-being through daily check-ins and an intelligent chatbot. Your progress is visualized and can be shared with your therapist, providing a comprehensive overview of your mental health journey.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
